@@ -19,7 +19,7 @@ $(".volume").append("<span class='volumeInner'></span>");
 
 
 //CSS Time!
-var percentage = 75;
+var percentage = 50;
 var speakerurl = "http://i.imgur.com/hRWrLHJ.png";
 var muteurl = "http://i.imgur.com/5mxvYNN.png";
 var color = $("#pgBd").css("background-color");
